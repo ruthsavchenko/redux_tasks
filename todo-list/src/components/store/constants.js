@@ -1,0 +1,6 @@
+export const ADD_TODO = 'ADD_TODO';
+export const DELETE_TODO = 'DELETE_TODO';
+export const MOVE_TO_INPROGRESS = 'MOVE_TO_INPROGRESS';
+export const DELETE_FROM_INPROGRESS = 'DELETE_FROM_INPROGRESS';
+export const MOVE_TO_DONE = 'MOVE_TO_DONE';
+export const DELETE_FROM_DONE = 'DELETE_FROM_DONE';
